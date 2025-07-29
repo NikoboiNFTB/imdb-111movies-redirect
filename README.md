@@ -20,6 +20,8 @@ Step 1: Download and upload /[IMDb to Custom 111movies.com Viewer Redirect-1.1.u
 
 That's it. Now, when you visit any IMDb page, a popup will ask to redirect as Movie or TV Show. Use your best judgement to choose. As I said, seasons and episodes are not checked. Start at S01E01, then S01E02, and continue until an error occurs. Then start over at S02E01.
 
+The link of the website while you are watching a TV Show is bookmarkable, but will reset to S01E01. Bookmarking the current website while watching a movie or show will continue the movie or episode from where you left off.
+
 ----------------------------------------------------------------
 
 Highly recommend Firefox + Tampermonkey, as the tool is built for them. Any browser + userscript injector *might* work.
