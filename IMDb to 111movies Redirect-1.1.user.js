@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         IMDb to Custom 111movies.com Viewer Redirect
+// @name         IMDb to 111movies Redirect
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Redirects IMDb movie/TV show pages to your custom GitHub Pages 111movies.com viewer.
